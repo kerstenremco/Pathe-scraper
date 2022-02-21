@@ -28,8 +28,8 @@ Fill in the mailgun API variable, storen in the scrape.py file
 
 | Libratie       | Link                                             |
 | -------------- | ------------------------------------------------ |
-| Requests       | [https://pypi.org/project/requests/][pldb]       |
-| Beautifulsoup4 | [https://pypi.org/project/beautifulsoup4/][plgh] |
+| Requests       | [https://pypi.org/project/requests/]             |
+| Beautifulsoup4 | [https://pypi.org/project/beautifulsoup4/]       |
 
 ## Manual
 
